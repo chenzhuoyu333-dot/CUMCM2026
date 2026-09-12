@@ -1,16 +1,16 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.25)  12 SEP 2026 12:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.25)  12 SEP 2026 15:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**1
-(./1.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
-(e:/texlive/2026/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(e:/texlive/2026/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+**template_merge
+(./template_merge.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(d:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(d:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count271
 \c@section=\count272
@@ -23,14 +23,14 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (e:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (e:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (e:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (e:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count279
@@ -45,22 +45,22 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen155
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
-) (e:/texlive/2026/texmf-dist/tex/latex/ctex/ctex.sty (e:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/ctex/ctex.sty (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-01-19 L3 programming layer (loader) 
- (e:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count282
 \g__pdfannot_backend_int=\count283
 \g__pdfannot_backend_link_int=\count284
 ))
 Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
- (e:/texlive/2026/texmf-dist/tex/latex/ctex/ctexhook.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
-) (e:/texlive/2026/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
-) (e:/texlive/2026/texmf-dist/tex/latex/base/fix-cm.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
- (e:/texlive/2026/texmf-dist/tex/latex/base/ts1enc.def
+ (c:/texlive/2026/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 LaTeX Encoding Info:    Redeclaring text command \capitalcedilla (encoding TS1) on input line 49.
@@ -196,13 +196,13 @@ LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input
 \l__ctex_tmp_dim=\dimen157
 \g__ctex_section_depth_int=\count286
 \g__ctex_font_size_int=\count287
- (e:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+ (c:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
-) (e:/texlive/2026/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+) (c:/texlive/2026/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
- (e:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+ (c:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
- (e:/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
 )
 \l__xeCJK_tmp_int=\count288
@@ -265,11 +265,11 @@ LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count298
 \l__xeCJK_verb_case_int=\count299
 \l__xeCJK_verb_exspace_skip=\skip57
- (e:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty (e:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
- (e:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count300
 \l__fontspec_language_int=\count301
@@ -285,28 +285,28 @@ Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen185
 \l__fontspec_tmpb_dim=\dimen186
 \l__fontspec_tmpc_dim=\dimen187
- (e:/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (e:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (e:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+) (c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 \ccwd=\dimen188
 \l__ctex_ccglue_skip=\skip58
 )
 \l__ctex_ziju_dim=\dimen189
- (e:/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count311
 \l__zhnum_tmp_int=\count312
- (e:/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+ (c:/texlive/2026/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
-)) (e:/texlive/2026/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+)) (c:/texlive/2026/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
 File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CTEX)
- (e:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+ (c:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
-)) (e:/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+)) (c:/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (e:/texlive/2026/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+) (c:/texlive/2026/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
 File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
 
 Package fontspec Info: 
@@ -339,9 +339,9 @@ Package fontspec Info:
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 
-)) (e:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (c:/texlive/2026/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
-) (e:/texlive/2026/texmf-dist/tex/latex/sectsty/sectsty.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
@@ -352,15 +352,15 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (e:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (e:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
- (e:/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
-) (e:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
@@ -369,9 +369,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (e:/texlive/2026/texmf-dist/tex/latex/graphics/dvipsnam.def
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-) (e:/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen190
 \lightrulewidth=\dimen191
@@ -390,9 +390,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count315
 \@lastruleclass=\count316
 \@thisrulewidth=\dimen258
-) (e:/texlive/2026/texmf-dist/tex/latex/makecell/makecell.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
- (e:/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen259
 \ar@mcellbox=\box56
@@ -405,7 +405,7 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \rotheadsize=\dimen261
 \c@nlinenum=\count317
 \TeXr@lab=\toks20
-) (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks21
 \symAMSa=\mathgroup4
@@ -413,21 +413,21 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip61
 
 For additional information on amsmath, use the `?' option.
-(e:/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen262
-)) (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen263
-) (e:/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count318
@@ -477,11 +477,11 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-) (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (e:/texlive/2026/texmf-dist/tex/latex/mathtools/mathtools.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
- (e:/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count330
 \calc@Bcount=\count331
@@ -493,7 +493,7 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count332
 \calc@Cskip=\skip66
-) (e:/texlive/2026/texmf-dist/tex/latex/mathtools/mhsetup.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count333
@@ -507,30 +507,30 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen279
 \xmathstrut@box=\box60
 \xmathstrut@dim=\dimen280
-) (e:/texlive/2026/texmf-dist/tex/latex/multirow/multirow.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip68
 \multirow@cntb=\count334
 \multirow@dima=\skip69
 \bigstrutjot=\dimen281
-) (e:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (e:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (e:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (e:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \Gin@req@height=\dimen282
 \Gin@req@width=\dimen283
-) (e:/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
- (e:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (e:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen284
 \captionmargin=\dimen285
@@ -549,14 +549,14 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count337
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count338
-) (e:/texlive/2026/texmf-dist/tex/latex/float/float.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count339
 \float@exts=\toks27
 \float@box=\box61
 \@float@everytoks=\toks28
 \@floatcapt=\box62
-) (e:/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip70
 \enit@outerparindent=\dimen292
@@ -564,7 +564,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box63
 \enit@count@id=\count340
 \enitdp@description=\count341
-) (e:/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip71
 \LTright=\skip72
@@ -582,7 +582,7 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \c@LT@tables=\count345
 \c@LT@chunks=\count346
 \LT@p@ftn=\toks30
-) (e:/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count347
 \lst@gtempboxa=\box69
 \lst@token=\toks31
@@ -595,18 +595,18 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \lst@newlines=\count351
 \lst@lineno=\count352
 \lst@maxwidth=\dimen297
- (e:/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
-) (e:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count353
 \lst@skipnumbers=\count354
 \lst@framebox=\box70
-) (e:/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg
+) (c:/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
 Package: listings 2025/11/14 1.11b (Carsten Heinz)
- (e:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+ (c:/texlive/2026/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count355
 \l__xeCJK_listings_flag_int=\count356
@@ -617,7 +617,7 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
     but found:
         2025/11/14 1.11b (Carsten Heinz)
     so I'm assuming it got fixed.
-(e:/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(c:/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip75
 \f@nch@offset@elh=\skip76
@@ -634,52 +634,52 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip87
 \f@nch@widthR=\skip88
 \@temptokenb=\toks32
-) (e:/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
- (e:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (e:/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (e:/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (e:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (e:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (e:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-)) (e:/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+)) (c:/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (e:/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
- (e:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (e:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (e:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count357
-) (e:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count358
-) (e:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen298
 \Hy@linkcounter=\count359
 \Hy@pagecounter=\count360
- (e:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (c:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
-) (e:/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (c:/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count361
- (e:/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+ (c:/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4072.
@@ -691,15 +691,15 @@ Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count362
- (e:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen299
- (e:/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (e:/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count363
@@ -717,16 +717,16 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 \c@Hfootnote=\count366
 )
 Package hyperref Info: Driver (autodetected): hxetex.
- (e:/texlive/2026/texmf-dist/tex/latex/hyperref/hxetex.def
+ (c:/texlive/2026/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
 \pdfm@box=\box71
 \c@Hy@AnnotLevel=\count367
 \HyField@AnnotCount=\count368
 \Fld@listcount=\count369
 \c@bookmark@seq@number=\count370
- (e:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (c:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (e:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (c:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
@@ -736,29 +736,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package hyperref Info: Option `colorlinks' set `true' on input line 40.
 Package hyperref Info: Option `breaklinks' set `true' on input line 40.
 
-No file 1.aux.
-\openout1 = `1.aux'.
+No file template_merge.aux.
+\openout1 = `template_merge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -800,76 +801,82 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 73.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 73.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 73.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 73.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 73.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 73.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 73.
-LaTeX Font Info:    Redeclaring math accent \check on input line 73.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 73.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 73.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 73.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 73.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 90.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 90.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 90.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 90.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 90.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 90.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 90.
+LaTeX Font Info:    Redeclaring math accent \check on input line 90.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 90.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 90.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 90.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 90.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 73.
+(Font)              `operators' in the math version `normal' on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 73.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 90.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 73.
+(Font)              `operators' in the math version `bold' on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 73.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 73.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 73.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 73.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 73.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 73.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 73.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 73.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 73.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 90.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
-(e:/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
+(c:/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count371
-Package hyperref Info: Link coloring ON on input line 73.
+Package hyperref Info: Link coloring ON on input line 90.
+ (./template.out) (./template.out)
 \@outlinefile=\write3
-\openout3 = `1.out'.
+\openout3 = `template_merge.out'.
 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 197.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 197.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-
-Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SimHei/BI" (it probably doesn't
 (fontspec)             exist).
 
 
@@ -893,63 +900,110 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
 
-[1
+ [1
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 141.
- (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 141.
- (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2
-
-] [3] [4] [5]
-
-LaTeX Warning: Reference `eq:q1-heat' on page 6 undefined on input line 422.
-
-[6]
-
-LaTeX Warning: Reference `eq:q1-moisture' on page 7 undefined on input line 472.
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[]| |\TU/SimHei(0)/m/n/12 【表 \TU/lmr/bx/n/12 1\TU/SimHei(0)/m/n/12 、|  表 \TU/lmr/bx/n/12 2\TU/SimHei(0)/m/n/12 ；| \TU/lmr/bx/n/12 re-
+ []
 
 
-LaTeX Warning: Reference `eq:q1-heat-bc' on page 7 undefined on input line 516.
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+[]| |\TU/SimHei(0)/m/n/12 【表 \TU/lmr/bx/n/12 3\TU/SimHei(0)/m/n/12 、|  表 \TU/lmr/bx/n/12 4\TU/SimHei(0)/m/n/12 ；| \TU/lmr/bx/n/12 re-
+ []
+
+[2
+
+] [3
+
+] [4] [5] [6
+
+] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+[]| |\TU/SimHei(0)/m/n/12 【\TU/lmr/bx/n/12 kg/m$[]$\TU/SimHei(0)/m/n/12 、|
+ []
 
 
-LaTeX Warning: Reference `eq:q1-moisture-bc' on page 7 undefined on input line 516.
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+\TU/lmr/bx/n/12 J/(kg$\OMS/cmsy/m/n/12 ^^A$\TU/lmr/bx/n/12 K)\TU/SimHei(0)/m/n/12 、|
+ []
 
-[7] [8]
+[8
 
-LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 9 undefined on input line 627.
+] [9
 
-[9] [10] [11]
+]
 
-LaTeX Warning: Reference `eq:heat-equation' on page 7 undefined on input line 423.
+LaTeX Warning: Reference `eq:q1-heat' on page 10 undefined on input line 676.
 
-[7]
+[10]
 
-LaTeX Warning: Reference `eq:moisture-equation' on page 8 undefined on input line 470.
+LaTeX Warning: Reference `eq:q1-moisture' on page 11 undefined on input line 726.
 
-[8]
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "FangSong/BI" (it probably
+LaTeX Warning: Reference `eq:q1-heat-bc' on page 11 undefined on input line 770.
+
+
+LaTeX Warning: Reference `eq:q1-moisture-bc' on page 11 undefined on input line 770.
+
+[11] [12]
+
+LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 13 undefined on input line 881.
+
+[13] [14] [15] [16] [17] [18] [19] [20]
+Underfull \hbox (badness 2635) in paragraph at lines 1254--1254
+[]| |\TU/SimHei(0)/m/n/12 【变 物 性 双 向 耦
+ []
+
+
+Overfull \hbox (11.63036pt too wide) in paragraph at lines 1249--1259
+ [][] 
+ []
+
+[21
+
+]
+Underfull \hbox (badness 3635) in paragraph at lines 1293--1293
+[]| |\TU/SimHei(0)/m/n/12 【排 除 建 模\TU/lmr/bx/n/12 /\TU/SimHei(0)/m/n/12 编
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 1293--1294
+[]| |\TU/SimHei(0)/m/n/12 【相 对 偏 差 $\OML/cmm/m/it/12 <$ |\TU/SimHei(0)/m/n/12 【阈
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 1294--1295
+[]| |\TU/SimHei(0)/m/n/12 【加 密 一 倍 误 差 减
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
+[]| |\TU/SimHei(0)/m/n/12 【排 除 边 界 条
+ []
+
+
+Overfull \hbox (2.4758pt too wide) in paragraph at lines 1289--1299
+ [][] 
+ []
+
+[22
+
+] [23] [24] [25]
+
+Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "FangSong/B" (it probably
+Package fontspec Info: Could not resolve font "FangSong/B" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "FangSong/I" (it probably
+Package fontspec Info: Could not resolve font "FangSong/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: 
-(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
+Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -957,19 +1011,28 @@ Package fontspec Info:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
- [12] [13] [14
+ [26
 
-] (e:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 977.
- [15]
-Overfull \hbox (7.5472pt too wide) in alignment at lines 1045--1074
- [] [] [] 
+] [27] [28
+
+] [29] [30
+
+] [31
+
+]
+Overfull \hbox (7.03865pt too wide) in paragraph at lines 1594--1594
+\TU/SimSun(0)/m/n/12 与 收 敛 性 检 验 \TU/lmtt/m/n/12 _verify_extra.py\TU/SimSun(0)/m/n/12 、|  表 格 抽 取 \TU/lmtt/m/n/12 _tables.py\TU/SimSun(0)/m/n/12 、|  结 果 检 查 \TU/lmtt/m/n/12 verify_results.py\TU/SimSun(0)/m/n/12 ） 。|
  []
 
-[16] [17] (./1.aux)
+(d:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1596.
+ [32
+
+] [33] (./template_merge.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -982,21 +1045,21 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package rerunfilecheck Warning: File `1.out' has changed.
+Package rerunfilecheck Warning: File `template_merge.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `1.out':
+Package rerunfilecheck Info: Checksums for `template_merge.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9DC1F4C3B2487F03A76788AF86371B8E;3832.
+(rerunfilecheck)             After:  8502DE35E0D8E49BA9D7E42E1E218F7A;5921.
  ) 
 Here is how much of TeX's memory you used:
- 21728 strings out of 474773
- 457630 string characters out of 5761288
- 1966842 words of memory out of 5000000
- 43570 multiletter control sequences out of 15000+600000
- 565044 words of font info for 98 fonts, out of 8000000 for 9000
+ 21761 strings out of 474773
+ 480240 string characters out of 5761288
+ 1960842 words of memory out of 5000000
+ 43602 multiletter control sequences out of 15000+600000
+ 566600 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,111p,356b,2407s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,97p,414b,1280s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 1.pdf (17 pages).
+Output written on template_merge.pdf (33 pages).
