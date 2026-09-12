@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 21:40
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 22:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,30 +748,30 @@ Package: ltablex 2014/08/13 v1.1 Modified tabularx
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 Package hyperref Info: Option `breaklinks' set `true' on input line 42.
- (./template_merge.aux)
+
+No file template_merge.aux.
 \openout1 = `template_merge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -813,56 +813,56 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 92.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 92.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 92.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 92.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 92.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 92.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 92.
-LaTeX Font Info:    Redeclaring math accent \check on input line 92.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 92.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 92.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 92.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 92.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 93.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 93.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 93.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 93.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 93.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 93.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 93.
+LaTeX Font Info:    Redeclaring math accent \check on input line 93.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 93.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 93.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 93.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 93.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 92.
+(Font)              `operators' in the math version `normal' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 92.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 93.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 92.
+(Font)              `operators' in the math version `bold' on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 92.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 92.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 92.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 92.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 92.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 92.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 93.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 92.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 92.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 92.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 92.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 93.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -873,16 +873,19 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count372
-Package hyperref Info: Link coloring ON on input line 92.
- (./template_merge.out) (./template_merge.out)
+Package hyperref Info: Link coloring ON on input line 93.
 \@outlinefile=\write3
 \openout3 = `template_merge.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 199.
- (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 200.
+(c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 199.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 200.
  (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -915,12 +918,12 @@ Package fontspec Info:
  [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 []| |\TU/SimHei(0)/m/n/12 【表 \TU/lmr/bx/n/12 1\TU/SimHei(0)/m/n/12 、|  表 \TU/lmr/bx/n/12 2\TU/SimHei(0)/m/n/12 ；| \TU/lmr/bx/n/12 re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 []| |\TU/SimHei(0)/m/n/12 【表 \TU/lmr/bx/n/12 3\TU/SimHei(0)/m/n/12 、|  表 \TU/lmr/bx/n/12 4\TU/SimHei(0)/m/n/12 ；| \TU/lmr/bx/n/12 re-
  []
 
@@ -929,110 +932,157 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--244
 ] [3
 
 ] [4]
-ignored: Infinite glue shrinkage found in box being split [5]
 
-Package caption Warning: \setcaptiontype
-(caption)                outside box or environment on input line 371.
-See the caption package documentation for explanation.
+LaTeX Warning: Reference `eq:q1-heat' on page 5 undefined on input line 733.
 
+[5]
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 371.
-See the caption package documentation for explanation.
+LaTeX Warning: Reference `eq:q1-moisture' on page 6 undefined on input line 783.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
-[]| |\TU/SimHei(0)/m/n/12 【\TU/lmr/bx/n/12 kg/m$[]$\TU/SimHei(0)/m/n/12 、|
+LaTeX Warning: Reference `eq:q1-heat-bc' on page 6 undefined on input line 827.
+
+
+LaTeX Warning: Reference `eq:q1-moisture-bc' on page 6 undefined on input line 827.
+
+[6]
+
+LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 7 undefined on input line 938.
+
+[7] [8]
+
+LaTeX Warning: Reference `tab:t' on page 9 undefined on input line 1052.
+
+
+LaTeX Warning: Reference `tab:c' on page 9 undefined on input line 1052.
+
+
+LaTeX Warning: Reference `tab:t' on page 9 undefined on input line 1054.
+
+
+LaTeX Warning: Reference `fig:t' on page 9 undefined on input line 1054.
+
+[9]
+
+LaTeX Warning: Reference `tab:c' on page 10 undefined on input line 1072.
+
+[10]
+Overfull \hbox (108.01968pt too wide) detected at line 1141
+[][][][] [][]\OMS/cmsy/m/n/12 ! [] [][]! [] [][]! [] [][]! []\OML/cmm/m/it/12 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
-\TU/lmr/bx/n/12 J/(kg$\OMS/cmsy/m/n/12 ^^A$\TU/lmr/bx/n/12 K)\TU/SimHei(0)/m/n/12 、|
+Overfull \hbox (11.50269pt too wide) in paragraph at lines 1155--1158
+[]\TU/SimSun(0)/m/n/12 附 件 \TU/lmr/m/n/12 1 \TU/SimSun(0)/m/n/12 给 出 了 烘 房 温 度 和 水 分 浓 度 在 离 散 时 刻 上 的 观 测 值。|  对 相 邻 数 据 点 $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t[]; T[]; C[]\OT1/cmr/m/n/12 )$
  []
 
-[6] [7] [8] [9] [10] [11]
-
-LaTeX Warning: Reference `tab:t' on page 12 undefined on input line 1042.
-
-
-LaTeX Warning: Reference `tab:c' on page 12 undefined on input line 1042.
-
-
-LaTeX Warning: Reference `tab:t' on page 12 undefined on input line 1044.
-
-
-LaTeX Warning: Reference `fig:t' on page 12 undefined on input line 1044.
-
-[12]
-
-LaTeX Warning: Reference `tab:c' on page 13 undefined on input line 1062.
-
-[13]
-Overfull \hbox (114.81967pt too wide) detected at line 1131
-[][][][]\OML/cmm/m/it/12 :
- []
-
-[14] [15]
+[11] [12]
 Missing character: There is no 误 (U+8BEF) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 差 (U+5DEE) in font [lmroman12-regular]:mapping=tex-text;!
-[16] [17] [18] [19] [20] [21] [22]
-Overfull \hbox (93.3959pt too wide) in paragraph at lines 1961--1964
+
+LaTeX Warning: Reference `tab:q2-temperature' on page 13 undefined on input line 1356.
+
+
+LaTeX Warning: Reference `tab:q2-moisture' on page 13 undefined on input line 1357.
+
+[13]
+
+LaTeX Warning: Reference `tab:q2-temperature' on page 14 undefined on input line 1403.
+
+
+LaTeX Warning: Reference `tab:q2-moisture' on page 14 undefined on input line 1427.
+
+[14]
+
+LaTeX Warning: Reference `eq:q3-dry-time' on page 15 undefined on input line 1493.
+
+[15]
+
+LaTeX Warning: Reference `tab:q3-moisture' on page 16 undefined on input line 1523.
+
+
+LaTeX Warning: Reference `eq:q3-dry-time' on page 16 undefined on input line 1525.
+
+
+LaTeX Warning: Reference `tab:q3-moisture' on page 16 undefined on input line 1556.
+
+[16]
+
+LaTeX Warning: Reference `eq:q4-D' on page 17 undefined on input line 1608.
+
+[17]
+
+LaTeX Warning: Reference `tab:q4-moisture' on page 18 undefined on input line 1706.
+
+[18]
+
+LaTeX Warning: Reference `tab:q4-moisture' on page 19 undefined on input line 1731.
+
+
+LaTeX Warning: Reference `tab:q34-convergence' on page 19 undefined on input line 1761.
+
+[19]
+
+LaTeX Warning: Reference `tab:q34-convergence' on page 20 undefined on input line 1778.
+
+
+Overfull \hbox (117.3959pt too wide) in paragraph at lines 1971--1974
 []\TU/lmr/m/n/12 ============================================================
  []
 
 
-Overfull \hbox (161.58203pt too wide) in paragraph at lines 1961--1964
+Overfull \hbox (161.58203pt too wide) in paragraph at lines 1971--1974
 \TU/SimSun(0)/m/n/12 六、|  仿 真 验 证 \TU/lmr/m/n/12 ============================================================ 
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 1977--1977
+Underfull \hbox (badness 2635) in paragraph at lines 1987--1987
 []| |\TU/SimHei(0)/m/n/12 【变 物 性 双 向 耦
  []
 
 
-Overfull \hbox (11.63036pt too wide) in paragraph at lines 1972--1982
+Overfull \hbox (11.63036pt too wide) in paragraph at lines 1982--1992
  [][] 
  []
 
-[23] [24]
-Overfull \hbox (93.3959pt too wide) in paragraph at lines 1988--1991
+[20]
+Overfull \hbox (117.3959pt too wide) in paragraph at lines 1998--2001
 []\TU/lmr/m/n/12 ============================================================
  []
 
 
-Overfull \hbox (161.58203pt too wide) in paragraph at lines 1988--1991
+Overfull \hbox (161.58203pt too wide) in paragraph at lines 1998--2001
 \TU/SimSun(0)/m/n/12 六、|  模 型 求 解 \TU/lmr/m/n/12 ============================================================ 
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 2016--2016
+Underfull \hbox (badness 3635) in paragraph at lines 2026--2026
 []| |\TU/SimHei(0)/m/n/12 【排 除 建 模\TU/lmr/bx/n/12 /\TU/SimHei(0)/m/n/12 编
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 2016--2017
+Underfull \hbox (badness 1502) in paragraph at lines 2026--2027
 []| |\TU/SimHei(0)/m/n/12 【相 对 偏 差 $\OML/cmm/m/it/12 <$ |\TU/SimHei(0)/m/n/12 【阈
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 2017--2018
+Underfull \hbox (badness 2809) in paragraph at lines 2027--2028
 []| |\TU/SimHei(0)/m/n/12 【加 密 一 倍 误 差 减
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2018
+Underfull \hbox (badness 10000) in paragraph at lines 2028--2028
 []| |\TU/SimHei(0)/m/n/12 【排 除 边 界 条
  []
 
 
-Overfull \hbox (2.4758pt too wide) in paragraph at lines 2012--2022
+Overfull \hbox (2.4758pt too wide) in paragraph at lines 2022--2032
  [][] 
  []
 
-[25
+[21
 
-] [26] [27] [28]
+] [22] [23] [24]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "FangSong/BI" (it probably
@@ -1059,31 +1109,26 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 
- [29
+ [25
 
-] [30] [31
+] [26] [27
 
-] [32] [33
+] [28] [29
 
-] [34
+] [30
 
 ]
-Underfull \hbox (badness 3260) in paragraph at lines 2317--2317
-|\TU/SimHei(0)/m/n/12 【手 册 索 引：| \TU/lmr/bx/n/12 9.3 \TU/SimHei(0)/m/n/12 常 用 文 件 与 脚 本】|  \TU/SimSun(0)/m/n/12 手 册 \TU/lmr/m/n/12 9.3 \TU/SimSun(0)/m/n/12 列 出 了 可 用 的 脚 本 清 单 与 运 行
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 2317--2317
-\TU/SimSun(0)/m/n/12 命 令  |（问 题 三 参 考 解 \TU/lmtt/m/n/12 ref_q3.py\TU/SimSun(0)/m/n/12 、|  问 题 四 三 种 模 型 对 比 \TU/lmtt/m/n/12 ref_p4.py\TU/SimSun(0)/m/n/12 、|  交 叉 验 证
+Overfull \hbox (7.03865pt too wide) in paragraph at lines 2327--2327
+\TU/SimSun(0)/m/n/12 与 收 敛 性 检 验 \TU/lmtt/m/n/12 _verify_extra.py\TU/SimSun(0)/m/n/12 、|  表 格 抽 取 \TU/lmtt/m/n/12 _tables.py\TU/SimSun(0)/m/n/12 、|  结 果 检 查 \TU/lmtt/m/n/12 verify_results.py\TU/SimSun(0)/m/n/12 ） 。|
  []
 
 (c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 2319.
- [35
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 2329.
+ [31
 
-] [36] (./template_merge.aux)
+] [32] (./template_merge.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -1101,16 +1146,16 @@ Package rerunfilecheck Warning: File `template_merge.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `template_merge.out':
-(rerunfilecheck)             Before: 4414C4C2A73A2057F6A5386395E0B714;6983
-(rerunfilecheck)             After:  5ABB64ADC5A23C8BD7244408E95D0DE1;6897.
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  13D2E72E9B8759379F5E52B680FD626D;6531.
  ) 
 Here is how much of TeX's memory you used:
- 21645 strings out of 468168
- 474883 string characters out of 5436525
- 1076911 words of memory out of 5000000
- 50051 multiletter control sequences out of 15000+600000
+ 21476 strings out of 468168
+ 465459 string characters out of 5436525
+ 1071305 words of memory out of 5000000
+ 49888 multiletter control sequences out of 15000+600000
  636252 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,111p,1495b,1269s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,111p,1495b,1273s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on template_merge.pdf (36 pages).
+Output written on template_merge.pdf (32 pages).
