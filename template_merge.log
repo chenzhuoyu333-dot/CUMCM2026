@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 22:45
-=======
 This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.25)  13 SEP 2026 00:15
->>>>>>> f7f15e317a3a1ac3a8c817275b61b76d6f572a78
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -750,30 +746,18 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-<<<<<<< HEAD
-\c@lstlisting=\count372
-=======
 \c@lstlisting=\count353
->>>>>>> f7f15e317a3a1ac3a8c817275b61b76d6f572a78
 Package hyperref Info: Link coloring ON on input line 93.
  (./template_merge.out) (./template_merge.out)
 \@outlinefile=\write3
 \openout3 = `template_merge.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 200.
-<<<<<<< HEAD
- (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 200.
- (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
-=======
  (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 200.
  (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
->>>>>>> f7f15e317a3a1ac3a8c817275b61b76d6f572a78
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
@@ -815,43 +799,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
 ] [3
 
-<<<<<<< HEAD
-] [4] [5] [6] [7] [8]
-
-LaTeX Warning: Reference `tab:t' on page 9 undefined on input line 1052.
-
-
-LaTeX Warning: Reference `tab:c' on page 9 undefined on input line 1052.
-
-
-LaTeX Warning: Reference `tab:t' on page 9 undefined on input line 1054.
-
-
-LaTeX Warning: Reference `fig:t' on page 9 undefined on input line 1054.
-
-[9]
-
-LaTeX Warning: Reference `tab:c' on page 10 undefined on input line 1072.
-
-[10]
-Overfull \hbox (108.01968pt too wide) detected at line 1141
-[][][][] [][]\OMS/cmsy/m/n/12 ! [] [][]! [] [][]! [] [][]! []\OML/cmm/m/it/12 :
- []
-
-
-Overfull \hbox (11.50269pt too wide) in paragraph at lines 1155--1158
-[]\TU/SimSun(0)/m/n/12 附 件 \TU/lmr/m/n/12 1 \TU/SimSun(0)/m/n/12 给 出 了 烘 房 温 度 和 水 分 浓 度 在 离 散 时 刻 上 的 观 测 值。|  对 相 邻 数 据 点 $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t[]; T[]; C[]\OT1/cmr/m/n/12 )$
- []
-
-[11] [12]
-Missing character: There is no 误 (U+8BEF) in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no 差 (U+5DEE) in font [lmroman12-regular]:mapping=tex-text;!
-[13] [14] [15] [16] [17] [18] [19]
-Overfull \hbox (117.3959pt too wide) in paragraph at lines 1971--1974
-=======
 ]
 Overfull \hbox (117.3959pt too wide) in paragraph at lines 330--333
->>>>>>> f7f15e317a3a1ac3a8c817275b61b76d6f572a78
 []\TU/lmr/m/n/12 ============================================================
  []
 
@@ -978,10 +927,6 @@ Underfull \hbox (badness 3260) in paragraph at lines 2326--2326
 |\TU/SimHei(0)/m/n/12 【手 册 索 引：| \TU/lmr/bx/n/12 9.3 \TU/SimHei(0)/m/n/12 常 用 文 件 与 脚 本】|  \TU/SimSun(0)/m/n/12 手 册 \TU/lmr/m/n/12 9.3 \TU/SimSun(0)/m/n/12 列 出 了 可 用 的 脚 本 清 单 与 运 行
  []
 
-<<<<<<< HEAD
-(e:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2025/11/14 1.11b listings language file
-=======
 
 Underfull \hbox (badness 2197) in paragraph at lines 2326--2326
 \TU/SimSun(0)/m/n/12 命 令  |（问 题 三 参 考 解 \TU/lmtt/m/n/12 ref_q3.py\TU/SimSun(0)/m/n/12 、|  问 题 四 三 种 模 型 对 比 \TU/lmtt/m/n/12 ref_p4.py\TU/SimSun(0)/m/n/12 、|  交 叉 验 证
@@ -989,7 +934,6 @@ Underfull \hbox (badness 2197) in paragraph at lines 2326--2326
 
 (d:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/02/21 1.10 listings language file
->>>>>>> f7f15e317a3a1ac3a8c817275b61b76d6f572a78
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 2328.
  [33
@@ -1002,26 +946,6 @@ L3 programming layer <2022/08/05>
 
 
 LaTeX Warning: There were undefined references.
-<<<<<<< HEAD
-
-
-Package rerunfilecheck Warning: File `template_merge.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `template_merge.out':
-(rerunfilecheck)             Before: 3ACA318802ACF25E3FFE0F12FE5CFF9D;6585
-(rerunfilecheck)             After:  13D2E72E9B8759379F5E52B680FD626D;6531.
- ) 
-Here is how much of TeX's memory you used:
- 21494 strings out of 468168
- 465762 string characters out of 5436525
- 1073564 words of memory out of 5000000
- 49900 multiletter control sequences out of 15000+600000
- 636252 words of font info for 109 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 93i,12n,111p,1497b,1273s stack positions out of 10000i,1000n,20000p,200000b,200000s
-=======
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1037,6 +961,5 @@ Here is how much of TeX's memory you used:
  566600 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,97p,668b,1276s stack positions out of 10000i,1000n,20000p,200000b,200000s
->>>>>>> f7f15e317a3a1ac3a8c817275b61b76d6f572a78
 
 Output written on template_merge.pdf (34 pages).
