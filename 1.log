@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 12:03
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 12:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -902,25 +902,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [2
 
-] [3] [4] [5] [6]
-
-LaTeX Warning: Reference `eq:q1-heat' on page 7 undefined on input line 434.
-
-
-LaTeX Warning: Reference `eq:q1-moisture' on page 7 undefined on input line 484.
-
-[7]
-
-LaTeX Warning: Reference `eq:q1-heat-bc' on page 8 undefined on input line 528.
-
-
-LaTeX Warning: Reference `eq:q1-moisture-bc' on page 8 undefined on input line 528.
-
-[8]
-
-LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 9 undefined on input line 639.
-
-[9] [10] [11] [12]
+] [3] [4] [5] [6] [7] [8] [9] [10] [11]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "FangSong/BI" (it probably
@@ -947,46 +929,37 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 
- [13] [14] [15
+ [12] [13] [14
 
 ] (c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 990.
- [16]
-Overfull \hbox (7.5472pt too wide) in alignment at lines 1058--1087
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 978.
+ [15]
+Overfull \hbox (7.5472pt too wide) in alignment at lines 1046--1075
  [] [] [] 
  []
 
 
-ignored: Infinite glue shrinkage found in box being split [17] [18] (./1.aux)
+ignored: Infinite glue shrinkage found in box being split [16] [17] (./1.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `1.out':
-(rerunfilecheck)             Before: C317F2483F33B44155264F73E8EDC81A;2880
-(rerunfilecheck)             After:  9DC1F4C3B2487F03A76788AF86371B8E;3832.
+Package rerunfilecheck Info: File `1.out' has not changed.
+(rerunfilecheck)             Checksum: 9DC1F4C3B2487F03A76788AF86371B8E;3832.
  ) 
 Here is how much of TeX's memory you used:
- 21477 strings out of 468168
- 449910 string characters out of 5436525
- 1072986 words of memory out of 5000000
- 49895 multiletter control sequences out of 15000+600000
+ 21472 strings out of 468168
+ 449812 string characters out of 5436525
+ 1073349 words of memory out of 5000000
+ 49890 multiletter control sequences out of 15000+600000
  634696 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,111p,395b,2407s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 1.pdf (18 pages).
+Output written on 1.pdf (17 pages).
