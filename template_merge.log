@@ -1,16 +1,16 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.25)  12 SEP 2026 15:33
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**template_merge
-(./template_merge.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
-(d:/texlive/2024/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(d:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+**c:/Users/Olivia/Desktop/math/CUMCM2026/template_merge
+(c:/Users/Olivia/Desktop/math/CUMCM2026/template_merge.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(c:/texlive/2026/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(c:/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count271
 \c@section=\count272
@@ -735,8 +735,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 40.
 Package hyperref Info: Option `breaklinks' set `true' on input line 40.
-
-No file template_merge.aux.
+ (./template_merge.aux)
 \openout1 = `template_merge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
@@ -862,7 +861,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count371
 Package hyperref Info: Link coloring ON on input line 90.
- (./template.out) (./template.out)
+ (./template_merge.out) (./template_merge.out)
 \@outlinefile=\write3
 \openout3 = `template_merge.out'.
 
@@ -932,78 +931,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
 ] [9
 
-]
+] [10] [11] [12] [13] [14]
+Overfull \hbox (114.81967pt too wide) detected at line 1106
+[][][][]\OML/cmm/m/it/12 :
+ []
 
-LaTeX Warning: Reference `eq:q1-heat' on page 10 undefined on input line 676.
+[15]
+Overfull \hbox (11.50269pt too wide) in paragraph at lines 1120--1123
+[]\TU/SimSun(0)/m/n/12 附 件 \TU/lmr/m/n/12 1 \TU/SimSun(0)/m/n/12 给 出 了 烘 房 温 度 和 水 分 浓 度 在 离 散 时 刻 上 的 观 测 值。|  对 相 邻 数 据 点 $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t[]; T[]; C[]\OT1/cmr/m/n/12 )$
+ []
 
-[10]
-
-LaTeX Warning: Reference `eq:q1-moisture' on page 11 undefined on input line 726.
-
-
-LaTeX Warning: Reference `eq:q1-heat-bc' on page 11 undefined on input line 770.
-
-
-LaTeX Warning: Reference `eq:q1-moisture-bc' on page 11 undefined on input line 770.
-
-[11] [12]
-
-LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 13 undefined on input line 881.
-
-[13] [14] [15] [16] [17] [18] [19] [20]
-Underfull \hbox (badness 2635) in paragraph at lines 1254--1254
+[16] [17]
+Missing character: There is no 误 (U+8BEF) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 差 (U+5DEE) in font [lmroman12-regular]:mapping=tex-text;!
+[18] [19] [20] [21] [22] [23]
+Underfull \hbox (badness 2635) in paragraph at lines 1631--1631
 []| |\TU/SimHei(0)/m/n/12 【变 物 性 双 向 耦
  []
 
 
-Overfull \hbox (11.63036pt too wide) in paragraph at lines 1249--1259
+Overfull \hbox (11.63036pt too wide) in paragraph at lines 1626--1636
  [][] 
  []
 
-[21
+[24
 
 ]
-Underfull \hbox (badness 3635) in paragraph at lines 1293--1293
+Underfull \hbox (badness 3635) in paragraph at lines 1670--1670
 []| |\TU/SimHei(0)/m/n/12 【排 除 建 模\TU/lmr/bx/n/12 /\TU/SimHei(0)/m/n/12 编
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 1293--1294
+Underfull \hbox (badness 1502) in paragraph at lines 1670--1671
 []| |\TU/SimHei(0)/m/n/12 【相 对 偏 差 $\OML/cmm/m/it/12 <$ |\TU/SimHei(0)/m/n/12 【阈
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 1294--1295
+Underfull \hbox (badness 2809) in paragraph at lines 1671--1672
 []| |\TU/SimHei(0)/m/n/12 【加 密 一 倍 误 差 减
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1295
+Underfull \hbox (badness 10000) in paragraph at lines 1672--1672
 []| |\TU/SimHei(0)/m/n/12 【排 除 边 界 条
  []
 
 
-Overfull \hbox (2.4758pt too wide) in paragraph at lines 1289--1299
+Overfull \hbox (2.4758pt too wide) in paragraph at lines 1666--1676
  [][] 
  []
 
-[22
+[25
 
-] [23] [24] [25]
+] [26] [27] [28]
 
-Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "FangSong/B" (it probably
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/B" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "FangSong/I" (it probably
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
+Package fontspec Info: 
+(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -1011,35 +1009,31 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
- [26
+ [29
 
-] [27] [28
+] [30] [31
 
-] [29] [30
+] [32] [33
 
-] [31
+] [34
 
 ]
-Overfull \hbox (7.03865pt too wide) in paragraph at lines 1594--1594
+Overfull \hbox (7.03865pt too wide) in paragraph at lines 1971--1971
 \TU/SimSun(0)/m/n/12 与 收 敛 性 检 验 \TU/lmtt/m/n/12 _verify_extra.py\TU/SimSun(0)/m/n/12 、|  表 格 抽 取 \TU/lmtt/m/n/12 _tables.py\TU/SimSun(0)/m/n/12 、|  结 果 检 查 \TU/lmtt/m/n/12 verify_results.py\TU/SimSun(0)/m/n/12 ） 。|
  []
 
-(d:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1596.
- [32
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 1973.
+ [35
 
-] [33] (./template_merge.aux)
+] [36] (./template_merge.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1050,16 +1044,16 @@ Package rerunfilecheck Warning: File `template_merge.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `template_merge.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8502DE35E0D8E49BA9D7E42E1E218F7A;5921.
+(rerunfilecheck)             Before: A182D6A1D5D26FB0ADAF62F458F24607;5972
+(rerunfilecheck)             After:  88191B26C33C3E4B3787868E36239312;6421.
  ) 
 Here is how much of TeX's memory you used:
- 21761 strings out of 474773
- 480240 string characters out of 5761288
- 1960842 words of memory out of 5000000
- 43602 multiletter control sequences out of 15000+600000
- 566600 words of font info for 105 fonts, out of 8000000 for 9000
+ 21512 strings out of 468168
+ 473383 string characters out of 5436525
+ 1074134 words of memory out of 5000000
+ 49929 multiletter control sequences out of 15000+600000
+ 636252 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,97p,414b,1280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,111p,453b,1273s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on template_merge.pdf (33 pages).
+Output written on template_merge.pdf (36 pages).
