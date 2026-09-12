@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 12:09
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -934,9 +934,9 @@ Package fontspec Info:
 ] (c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 978.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 977.
  [15]
-Overfull \hbox (7.5472pt too wide) in alignment at lines 1046--1075
+Overfull \hbox (7.5472pt too wide) in alignment at lines 1045--1074
  [] [] [] 
  []
 
@@ -946,10 +946,6 @@ ignored: Infinite glue shrinkage found in box being split [16] [17] (./1.aux)
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `1.out' has not changed.
 (rerunfilecheck)             Checksum: 9DC1F4C3B2487F03A76788AF86371B8E;3832.
  ) 
@@ -960,6 +956,6 @@ Here is how much of TeX's memory you used:
  49890 multiletter control sequences out of 15000+600000
  634696 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,111p,395b,2407s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,111p,457b,2407s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 1.pdf (17 pages).
