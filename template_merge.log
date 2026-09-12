@@ -786,16 +786,11 @@ Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
  [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
-[]| |\TU/SimHei(0)/m/n/12 【表 \TU/lmr/bx/n/12 1\TU/SimHei(0)/m/n/12 、|  表 \TU/lmr/bx/n/12 2\TU/SimHei(0)/m/n/12 ；| \TU/lmr/bx/n/12 re-
- []
+
+LaTeX Warning: Citation `wang2011porous' on page 2 undefined on input line 229.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
-[]| |\TU/SimHei(0)/m/n/12 【表 \TU/lmr/bx/n/12 3\TU/SimHei(0)/m/n/12 、|  表 \TU/lmr/bx/n/12 4\TU/SimHei(0)/m/n/12 ；| \TU/lmr/bx/n/12 re-
- []
-
-[2
+LaTeX Warning: Citation `li2021gastrodia' on page 2 undefined on input line 234.
 
 ] [3
 
