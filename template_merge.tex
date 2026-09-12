@@ -433,28 +433,69 @@
 
 % \handbook{0.2 符号表}{手册 0.2 是本题的完整符号表（含 $X$、$R_t$、$M(t)$、$t_{dry}$、$V_i$ 等本题特有符号）。可比对取舍，但要保证\textbf{符号表与正文实际出现的符号一致}：正文没用到的不列，用到的一定要在表里。}
 
+% \begin{table}[H]
+% \centering
+% \caption{主要符号说明（骨架，请填写）}
+% \label{tab:symbol}
+% \begin{tabular}{p{2.4cm}p{9.0cm}p{2.6cm}}
+% \toprule
+% 符号 & 含义 & 单位\\
+% \midrule
+% \ph{$r$} & \ph{到药材中心轴线的径向距离} & \ph{m}\\
+% \ph{$t$} & \ph{时间} & \ph{s}\\
+% \ph{$T$、$C$} & \ph{药材温度、干基含水率} & \ph{$^\circ$C、kg/kg}\\
+% \ph{$T_a$、$C_a$} & \ph{烘房温度、烘房含水率（附件 1）} & \ph{$^\circ$C、kg/kg}\\
+% \ph{$R_0$、$R(t)$} & \ph{初始半径、问题四中随时间变化的半径} & \ph{m}\\
+% \ph{$\rho$、$c_p$、$k$} & \ph{密度、比热容、导热系数（附录公式）} & \ph{kg/m$^3$、J/(kg$\cdot$K)、W/(m$\cdot$K)}\\
+% \ph{$D$} & \ph{水分扩散系数（附录公式）} & \ph{m$^2$/s}\\
+% \ph{$h$、$h_m$} & \ph{对流换热系数、对流传质系数} & \ph{W/(m$^2\cdot$K)、m/s}\\
+% \ph{$M(t)$、$t_{dry}$} & \ph{全场最大含水率、干燥时长} & \ph{kg/kg、h}\\
+% \ph{$N$、$\Delta r$、$\Delta t$} & \ph{控制体数目、网格步长、时间步长} & \ph{---、m、s}\\
+% \ph{其他} & & \\
+% \bottomrule
+% \end{tabular}
+% \end{table}
+% ============ 四、符号说明 ============
+
+本文主要符号按其在正文中出现的先后顺序说明如下，单位均采用国际单位制（SI）。
+
 \begin{table}[H]
 \centering
-\caption{主要符号说明（骨架，请填写）}
-\label{tab:symbol}
-\begin{tabular}{p{2.4cm}p{9.0cm}p{2.6cm}}
+\caption{主要符号说明}
+\label{tab:symbols}
+\begin{tabular}{cll}
 \toprule
-符号 & 含义 & 单位\\
+符号 & 含义 & 单位 \\
 \midrule
-\ph{$r$} & \ph{到药材中心轴线的径向距离} & \ph{m}\\
-\ph{$t$} & \ph{时间} & \ph{s}\\
-\ph{$T$、$C$} & \ph{药材温度、干基含水率} & \ph{$^\circ$C、kg/kg}\\
-\ph{$T_a$、$C_a$} & \ph{烘房温度、烘房含水率（附件 1）} & \ph{$^\circ$C、kg/kg}\\
-\ph{$R_0$、$R(t)$} & \ph{初始半径、问题四中随时间变化的半径} & \ph{m}\\
-\ph{$\rho$、$c_p$、$k$} & \ph{密度、比热容、导热系数（附录公式）} & \ph{kg/m$^3$、J/(kg$\cdot$K)、W/(m$\cdot$K)}\\
-\ph{$D$} & \ph{水分扩散系数（附录公式）} & \ph{m$^2$/s}\\
-\ph{$h$、$h_m$} & \ph{对流换热系数、对流传质系数} & \ph{W/(m$^2\cdot$K)、m/s}\\
-\ph{$M(t)$、$t_{dry}$} & \ph{全场最大含水率、干燥时长} & \ph{kg/kg、h}\\
-\ph{$N$、$\Delta r$、$\Delta t$} & \ph{控制体数目、网格步长、时间步长} & \ph{---、m、s}\\
-\ph{其他} & & \\
+$R$     & 药材半径 & m \\
+$L$     & 药材长度 & m \\
+$r$     & 径向坐标（到药材中心的距离） & m \\
+$t$     & 时间 & s \\
+$T$     & 药材温度 & $^\circ$C \\
+$C$     & 干基含水率（水分浓度） & kg/kg \\
+$\rho$  & 药材密度 & kg/m$^3$ \\
+$c_p$   & 定压比热容 & J/(kg$\cdot$K) \\
+$k$     & 导热系数 & W/(m$\cdot$K) \\
+$h$     & 对流换热系数 & W/(m$^2\cdot$K) \\
+$h_m$   & 对流传质系数 & m/s \\
+$D$     & 水分扩散系数 & m$^2$/s \\
+$T_\infty$ & 烘房空气温度 & $^\circ$C \\
+$C_\infty$ & 烘房空气水分浓度 & kg/kg \\
+$\alpha$ & 热扩散系数 & m$^2$/s \\
+$M(t)$  & 全场最大含水率 & kg/kg \\
+$t^{*}$ & 烘干时长 & h \\
+$f(t)$  & 判据函数，$f(t)=C(0,t)-0.15$ & kg/kg \\
+$R(t)$  & 随时间变化的药材半径 & m \\
+$R_0$   & 药材初始半径 & m \\
+$X$     & 材料坐标（质点的初始径向位置） & m \\
+$\tau$   & 特征时间 & s \\
+$Bi$    & 毕渥数 & 无量纲 \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+注：$D$ 的经验公式中温度须取开尔文温标，即 $T_{\mathrm{K}}=T/^\circ\mathrm{C}+273.15$；
+$\rho$、$c_p$、$k$、$D$ 在问题二、三、四中为对应经验式给出的变物性。
 
 % \pitfall{符号表里塞很多只有一个公式用到的中间量；符号与正文不一致（例如表里叫 $C_m$、正文写 $C_{air}$）；忘记写单位。}
 
