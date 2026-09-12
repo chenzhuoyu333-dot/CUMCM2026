@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 22:22
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 22:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,8 +748,7 @@ Package: ltablex 2014/08/13 v1.1 Modified tabularx
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 Package hyperref Info: Option `breaklinks' set `true' on input line 42.
-
-No file template_merge.aux.
+ (./template_merge.aux)
 \openout1 = `template_merge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
@@ -772,6 +771,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
 LaTeX Font Info:    ... okay on input line 93.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
 LaTeX Font Info:    ... okay on input line 93.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -873,16 +873,16 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count372
-Package hyperref Info: Link coloring ON on input line 92.
+Package hyperref Info: Link coloring ON on input line 93.
  (./template_merge.out) (./template_merge.out)
 \@outlinefile=\write3
 \openout3 = `template_merge.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 199.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 200.
  (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 199.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 200.
  (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -928,22 +928,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
 ] [3
 
-] [4]
-ignored: Infinite glue shrinkage found in box being split [5]
-
-LaTeX Warning: Reference `eq:q1-moisture' on page 6 undefined on input line 783.
-
-
-LaTeX Warning: Reference `eq:q1-heat-bc' on page 6 undefined on input line 827.
-
-
-LaTeX Warning: Reference `eq:q1-moisture-bc' on page 6 undefined on input line 827.
-
-[6]
-
-LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 7 undefined on input line 938.
-
-[7] [8]
+] [4] [5] [6] [7] [8]
 
 LaTeX Warning: Reference `tab:t' on page 9 undefined on input line 1052.
 
@@ -973,8 +958,8 @@ Overfull \hbox (11.50269pt too wide) in paragraph at lines 1155--1158
 [11] [12]
 Missing character: There is no 误 (U+8BEF) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 差 (U+5DEE) in font [lmroman12-regular]:mapping=tex-text;!
-[16] [17] [18] [19] [20] [21] [22]
-Overfull \hbox (93.3959pt too wide) in paragraph at lines 1989--1992
+[13] [14] [15] [16] [17] [18] [19]
+Overfull \hbox (117.3959pt too wide) in paragraph at lines 1971--1974
 []\TU/lmr/m/n/12 ============================================================
  []
 
@@ -1070,11 +1055,6 @@ Overfull \hbox (7.03865pt too wide) in paragraph at lines 2327--2327
 \TU/SimSun(0)/m/n/12 与 收 敛 性 检 验 \TU/lmtt/m/n/12 _verify_extra.py\TU/SimSun(0)/m/n/12 、|  表 格 抽 取 \TU/lmtt/m/n/12 _tables.py\TU/SimSun(0)/m/n/12 、|  结 果 检 查 \TU/lmtt/m/n/12 verify_results.py\TU/SimSun(0)/m/n/12 ） 。|
  []
 
-
-Underfull \hbox (badness 2197) in paragraph at lines 2345--2345
-\TU/SimSun(0)/m/n/12 命 令  |（问 题 三 参 考 解 \TU/lmtt/m/n/12 ref_q3.py\TU/SimSun(0)/m/n/12 、|  问 题 四 三 种 模 型 对 比 \TU/lmtt/m/n/12 ref_p4.py\TU/SimSun(0)/m/n/12 、|  交 叉 验 证
- []
-
 (e:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
@@ -1088,7 +1068,7 @@ L3 programming layer <2022/08/05>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were undefined references.
 
 
 Package rerunfilecheck Warning: File `template_merge.out' has changed.
@@ -1096,16 +1076,16 @@ Package rerunfilecheck Warning: File `template_merge.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `template_merge.out':
-(rerunfilecheck)             Before: 2AB190F0F0E9542B5B69EABD19C7C089;7041
-(rerunfilecheck)             After:  4414C4C2A73A2057F6A5386395E0B714;6983.
+(rerunfilecheck)             Before: 3ACA318802ACF25E3FFE0F12FE5CFF9D;6585
+(rerunfilecheck)             After:  13D2E72E9B8759379F5E52B680FD626D;6531.
  ) 
 Here is how much of TeX's memory you used:
- 21642 strings out of 468168
- 474868 string characters out of 5436525
- 1076947 words of memory out of 5000000
- 50048 multiletter control sequences out of 15000+600000
+ 21494 strings out of 468168
+ 465762 string characters out of 5436525
+ 1073564 words of memory out of 5000000
+ 49900 multiletter control sequences out of 15000+600000
  636252 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,111p,1497b,1269s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,111p,1497b,1273s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on template_merge.pdf (32 pages).
