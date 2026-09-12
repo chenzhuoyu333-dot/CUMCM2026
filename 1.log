@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  12 SEP 2026 12:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.25)  12 SEP 2026 12:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -869,8 +869,7 @@ Package hyperref Info: Link coloring ON on input line 73.
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "SimHei/BI" (it probably doesn't
+Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
 (fontspec)             exist).
 
 
@@ -894,18 +893,37 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 105.
-(e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+[1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 141.
+ (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 105.
- (e:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 141.
+ (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+) [2
 
-] [2
+] [3] [4] [5]
 
-] [3] [4] [5] [6]
+LaTeX Warning: Reference `eq:q1-heat' on page 6 undefined on input line 422.
+
+[6]
+
+LaTeX Warning: Reference `eq:q1-moisture' on page 7 undefined on input line 472.
+
+
+LaTeX Warning: Reference `eq:q1-heat-bc' on page 7 undefined on input line 516.
+
+
+LaTeX Warning: Reference `eq:q1-moisture-bc' on page 7 undefined on input line 516.
+
+[7] [8]
+
+LaTeX Warning: Reference `eq:q1-moisture-fvm' on page 9 undefined on input line 627.
+
+[9] [10] [11]
 
 LaTeX Warning: Reference `eq:heat-equation' on page 7 undefined on input line 423.
 
@@ -940,19 +958,18 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 
- [9] [10] [11
+ [12] [13] [14
 
 ] (e:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 686.
- [12]
-Overfull \hbox (7.5472pt too wide) in alignment at lines 754--783
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 978.
+ [15]
+Overfull \hbox (7.5472pt too wide) in alignment at lines 1046--1075
  [] [] [] 
  []
 
-
-ignored: Infinite glue shrinkage found in box being split [13] [14] (./1.aux)
+[16] [17] (./1.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -971,15 +988,15 @@ Package rerunfilecheck Warning: File `1.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `1.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  C317F2483F33B44155264F73E8EDC81A;2880.
+(rerunfilecheck)             After:  9DC1F4C3B2487F03A76788AF86371B8E;3832.
  ) 
 Here is how much of TeX's memory you used:
- 21454 strings out of 468168
- 449908 string characters out of 5436525
- 1072825 words of memory out of 5000000
- 49879 multiletter control sequences out of 15000+600000
- 634696 words of font info for 102 fonts, out of 8000000 for 9000
+ 21728 strings out of 474773
+ 457630 string characters out of 5761288
+ 1966842 words of memory out of 5000000
+ 43570 multiletter control sequences out of 15000+600000
+ 565044 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,111p,356b,2407s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 1.pdf (14 pages).
+Output written on 1.pdf (17 pages).
