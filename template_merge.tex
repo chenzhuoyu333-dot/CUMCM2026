@@ -2059,36 +2059,7 @@ e^{-3850/T_K}$ 随之指数减小，烘干时长由 16.44 h 延长至 22.51 h，
   \item \texttt{Problem1.mph} $\sim$ \texttt{Problem4.mph} 及 \texttt{comsol\_p*.csv}：COMSOL 仿真模型文件与其导出的温度、水分浓度数据，用于独立复算与交叉验证。
   \item \texttt{AI 工具使用详情说明.pdf}：AI 工具名称、使用环节、提示方式与采纳情况的完整记录。
 \end{enumerate}
-\section{AI 工具使用详情说明}
 
-\subsection*{工具名称与版本。} 使用 OpenAI 的 Codex（GPT-5 类编码智能体，桌面版）与 COMSOL Multiphysics 6.3 自带帮助系统。
-
-\subsection*{使用目的与环节。} 
-\begin{enumerate}
-       \item 查阅干燥理论、菲克扩散、抛物型方程极值原理与有限体积法的基本结论，用于校核建模思路；
-       \item 校核水分类比与收缩条件下材料坐标变换的推导（第 5 章公式）；
-       \item 辅助编写并调试自主求解程序（网格生成、守恒型离散、追赶法、物性更新）；
-       \item 检查 COMSOL 建模步骤与导出设置（几何、边界条件、网格、导出格式）；
-       \item 论文语言润色与图表规范化。
-\end{enumerate}
-
-\subsection*{主要提示方式。} 采用"给条件、要推导、要核验"的方式提问，例如："一维轴对称圆柱、径向收缩满足 $r=X\cdot R(t)/R_0$，请写出材料坐标下的水分方程与表面边界条件，并说明扩散项与表面通量项各自的放大因子"；"给出网格 $N$ 与时间步 $\Delta t$ 的收敛性实验设计，并说明如何用 Richardson 外推判断误差来源"；"检查以下 COMSOL 设置能否正确导出随半径变化的表面含水率"。所有提示均围绕本题数据展开，未使用与本题无关的现成答案。
-
-\subsection*{输出的采纳、修改与核验。} 
-\begin{enumerate}
-       \item 公式推导：逐条与《传热学》《The Mathematics of Diffusion》及 COMSOL 文档对照后采纳，并自行重推了收缩项因子；
-       \item 程序：AI 给出的代码经队员按行审阅、在小规模算例（恒定扩散系数与解析级数解对照）上验证后才用于正式计算；
-       \item 全部数值结果由两套独立方法（有限体积与有限元）互验，并用积分守恒恒等式与网格收敛性交叉确认；
-       \item 语言润色仅在表述层面进行，所有数据与结论均由队员核对原始结果文件后确认。
-\end{enumerate}
-\begin{equation}
-\boxed{
-\begin{gathered}
-\text{含水率变化} \;\longrightarrow\; \text{密度、比热容、导热系数改变} \;\longrightarrow\; \text{温度场改变}\\
-\;\longrightarrow\; \text{扩散系数改变} \;\longrightarrow\; \text{含水率场进一步改变}
-\end{gathered}
-}
-\end{equation}
 
 \section{COMSOL 仿真设置（仿真附录）}
 
