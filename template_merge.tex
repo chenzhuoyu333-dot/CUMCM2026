@@ -2059,7 +2059,6 @@ e^{-3850/T_K}$ 随之指数减小，烘干时长由 16.44 h 延长至 22.51 h，
   \item \texttt{Problem1.mph} $\sim$ \texttt{Problem4.mph} 及 \texttt{comsol\_p*.csv}：COMSOL 仿真模型文件与其导出的温度、水分浓度数据，用于独立复算与交叉验证。
   \item \texttt{AI 工具使用详情说明.pdf}：AI 工具名称、使用环节、提示方式与采纳情况的完整记录。
 \end{enumerate}
-
 \section{AI 工具使用详情说明}
 
 \subsection*{工具名称与版本。} 使用 OpenAI 的 Codex（GPT-5 类编码智能体，桌面版）与 COMSOL Multiphysics 6.3 自带帮助系统。
@@ -2082,6 +2081,14 @@ e^{-3850/T_K}$ 随之指数减小，烘干时长由 16.44 h 延长至 22.51 h，
        \item 全部数值结果由两套独立方法（有限体积与有限元）互验，并用积分守恒恒等式与网格收敛性交叉确认；
        \item 语言润色仅在表述层面进行，所有数据与结论均由队员核对原始结果文件后确认。
 \end{enumerate}
+\begin{equation}
+\boxed{
+\begin{gathered}
+\text{含水率变化} \;\longrightarrow\; \text{密度、比热容、导热系数改变} \;\longrightarrow\; \text{温度场改变}\\
+\;\longrightarrow\; \text{扩散系数改变} \;\longrightarrow\; \text{含水率场进一步改变}
+\end{gathered}
+}
+\end{equation}
 
 \section{COMSOL 仿真设置（仿真附录）}
 
