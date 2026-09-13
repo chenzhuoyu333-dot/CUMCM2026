@@ -4,9 +4,10 @@ from pathlib import Path
 import csv, math
 import numpy as np
 import matplotlib.pyplot as plt
+from xlsx_output import write_table
 
 R, T0, C0, H, HM = 0.02, 301.15, 2.55, 25.0, 8e-7
-N, DT, T_END = 200, 2.0, 10800.0
+N, DT, T_END = 200, 1.0, 10800.0
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "figure" / "Q2"; OUT.mkdir(parents=True, exist_ok=True)
 plt.rcParams.update({"font.family":"sans-serif","font.sans-serif":["Microsoft YaHei","SimHei","DejaVu Sans"],
@@ -55,7 +56,7 @@ def solve():
         T=assemble_and_solve(T,capacity,k,H,Ta+273.15,DT,dr)
         D=np.array([d_fun(c,temp) for c,temp in zip(C,T)])
         C=assemble_and_solve(C,1.0,D,HM,Ca,DT,dr)
-        if step%30==0:
+        if True:
             times.append(t); TH.append(T.copy()); CH.append(C.copy())
     r=(np.arange(N)+0.5)*dr*100
     return np.array(times),r,np.array(TH)-273.15,np.array(CH)
@@ -85,7 +86,11 @@ def plots(t,r,T,C):
     lines=ax.lines+ax2.lines;ax.legend(lines,[x.get_label() for x in lines],frameon=False,loc='center right');save(fig,'q2_properties.png')
 
 def main():
-    t,r,T,C=solve();write_result('result2_temperature.csv',t,r,T);write_result('result2_moisture.csv',t,r,C);plots(t,r,T,C)
+    t,r,T,C=solve();write_result('result2_temperature.csv',t,r,T);write_result('result2_moisture.csv',t,r,C)
+    pos=np.arange(0.0,2.01,0.1); header=["time_s"]+[f"r={x:.1f}cm" for x in pos]
+    rows_t=[[float(tt)]+list(sample(row,r,pos)) for tt,row in zip(t,T)]
+    rows_c=[[float(tt)]+list(sample(row,r,pos)) for tt,row in zip(t,C)]
+    write_table(ROOT/"result2.xlsx",[("温度",header,rows_t),("水分浓度",header,rows_c)]);plots(t,r,T,C)
     x=[0,.5,1,1.5,2]
     print('问题二计算完成；3 h抽样结果');print('r/cm:',x);print('T/°C:',np.round(sample(T[-1],r,x),4));print('C:',np.round(sample(C[-1],r,x),4));print('输出目录：',OUT)
 

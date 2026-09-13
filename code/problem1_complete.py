@@ -9,6 +9,7 @@ import csv
 import math
 import numpy as np
 import matplotlib.pyplot as plt
+from xlsx_output import write_table
 
 # ------------------------------ 模型参数与输出路径
 R = 0.02                       # 圆柱半径/m
@@ -92,7 +93,7 @@ def solve():
         temp = implicit_fvm_step(temp, RHO * CP, K, H, air_temp + 273.15, DT, dr)
         diffusivity = np.array([diffusion(c) for c in moisture])
         moisture = implicit_fvm_step(moisture, 1.0, diffusivity, HM, air_c, DT, dr)
-        if step % 10 == 0:
+        if True:
             times.append(t)
             temp_hist.append(temp.copy())
             moist_hist.append(moisture.copy())
@@ -162,6 +163,11 @@ def main():
     times, r, temp, moisture = solve()
     write_csv(OUT / "result1_temperature.csv", times, r, temp)
     write_csv(OUT / "result1_moisture.csv", times, r, moisture)
+    pos = np.arange(0.0, 2.01, 0.1)
+    header = ["time_s"] + [f"r={x:.1f}cm" for x in pos]
+    rows_t = [[float(tt)] + list(sample(row, r, pos)) for tt, row in zip(times, temp)]
+    rows_c = [[float(tt)] + list(sample(row, r, pos)) for tt, row in zip(times, moisture)]
+    write_table(ROOT / "result1.xlsx", [("温度", header, rows_t), ("水分浓度", header, rows_c)])
     draw_all(times, r, temp, moisture)
     positions = [0, 0.5, 1.0, 1.5, 2.0]
     print("问题一计算完成；1800 s抽样结果")

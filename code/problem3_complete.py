@@ -4,6 +4,7 @@ from pathlib import Path
 import csv, math
 import numpy as np
 import matplotlib.pyplot as plt
+from xlsx_output import write_table
 
 R,T0,C0,H,HM=0.02,301.15,2.55,25.0,8e-7
 N,DT,T_LIMIT,THRESHOLD=300,30.0,230000.0,0.15
@@ -70,7 +71,10 @@ def plots(t,r,C,dry_time):
     rate=-np.gradient(C[:,0],t)*3600;fig,ax=plt.subplots(figsize=(5.9,3.6));ax.plot(hours,rate,lw=2.2,color='#1d6996');ax.fill_between(hours,0,rate,color='#38a6a5',alpha=.3);ax.set(xlabel='时间 (h)',ylabel='中心失水速率 (kg/(kg·h))');ax.grid(alpha=.22);save(fig,'q3_dryingrate.png')
 
 def main():
-    t,r,T,C,dry=solve();write_result(t,r,C);plots(t,r,C,dry)
+    t,r,T,C,dry=solve();write_result(t,r,C)
+    pos=np.arange(0.0,2.01,0.1); header=["time_s"]+[f"r={x:.1f}cm" for x in pos]
+    rows=[[float(tt)]+list(sample(row,r,pos)) for tt,row in zip(t,C)]
+    write_table(ROOT/"result3.xlsx",[("水分浓度",header,rows)]);plots(t,r,C,dry)
     x=[0,.5,1,1.5,2];print(f'问题三计算完成；烘干时间={dry/3600:.4f} h');print('结束时C:',np.round(sample(C[-1],r,x),4));print('输出目录：',OUT)
 
 if __name__=='__main__':main()

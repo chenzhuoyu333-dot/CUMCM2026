@@ -4,6 +4,7 @@ from pathlib import Path
 import csv, math
 import numpy as np
 import matplotlib.pyplot as plt
+from xlsx_output import write_table
 
 R0,T0,C0,H,HM=0.02,301.15,2.55,25.,8e-7
 DT,T_LIMIT,THRESHOLD=30.,220000.,.15
@@ -87,7 +88,11 @@ def plots(t,X,C,RH,dry,fixed,coarse):
 
 def main():
     result=solve(True,300);fixed=solve(False,220);coarse=solve(True,150)
-    t,X,T,C,RH,dry=result;write_result(t,X,C,RH);plots(t,X,C,RH,dry,fixed,coarse)
+    t,X,T,C,RH,dry=result;write_result(t,X,C,RH)
+    pos=np.arange(0.0,1.11,0.1); header=["time_s","radius_cm"]+[f"r={x:.1f}cm" for x in pos]+["surface"]
+    rows=[]
+    for tt,row,Rt in zip(t,C,RH): rows.append([float(tt),float(Rt*100)]+list(physical_sample(row,X,pos,Rt))+[float(row[-1])])
+    write_table(ROOT/"result4.xlsx",[("水分浓度",header,rows)]);plots(t,X,C,RH,dry,fixed,coarse)
     print(f'问题四计算完成；考虑收缩={dry/3600:.4f} h，固定半径={fixed[-1]/3600:.4f} h');print(f'结束半径={RH[-1]*100:.4f} cm');print('输出目录：',OUT)
 
 if __name__=='__main__':main()

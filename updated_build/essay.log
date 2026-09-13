@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  13 SEP 2026 18:56
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.9.6)  13 SEP 2026 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1115,107 +1115,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 104
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-] [2
-
-] [3] [4]
-File: image_tex/q1_schematic.png Graphic file (type bmp)
-<image_tex/q1_schematic.png>
-
-[5] [6] [7]
-File: image_tex/q1_T_profile.png Graphic file (type bmp)
-<image_tex/q1_T_profile.png>
-File: image_tex/q1_C_profile.png Graphic file (type bmp)
-<image_tex/q1_C_profile.png>
- [8]
-Overfull \hbox (12.19318pt too wide) in paragraph at lines 681--690
-[]\TU/SimSun(0)/m/n/12 温 度 场 整 体 持 续 升 高，|  径 向 温 差 随 时 间 增 大：| \TU/lmr/m/n/12 
-100 s \TU/SimSun(0)/m/n/12 时 中 心 与 表 面 温 度 分 别 为 $\OT1/cmr/m/n/12 28\OML/cmm/m/
-it/12 :\OT1/cmr/m/n/12 0001[][]$\TU/SimSun(0)/m/n/12 、|
- []
-
-[9]
-File: image_tex/q2_properties.png Graphic file (type bmp)
-<image_tex/q2_properties.png>
-
-Overfull \hbox (11.50269pt too wide) in paragraph at lines 790--793
-[]\TU/SimSun(0)/m/n/12 附 件 \TU/lmr/m/n/12 1 \TU/SimSun(0)/m/n/12 给 出 了 烘 房 温 度 
-和 水 分 浓 度 在 离 散 时 刻 上 的 观 测 值。|  对 相 邻 数 据 点 $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
- t[]; T[]; C[]\OT1/cmr/m/n/12 )$
- []
-
-[10] [11] [12] [13] [14]
-File: image_tex/q3_center_surface.png Graphic file (type bmp)
-<image_tex/q3_center_surface.png>
- [15] [16] [17]
-File: image_tex/q4_radius.png Graphic file (type bmp)
-<image_tex/q4_radius.png>
-File: image_tex/q4_center_surface.png Graphic file (type bmp)
-<image_tex/q4_center_surface.png>
-File: image_tex/q4_shrink_effect.png Graphic file (type bmp)
-<image_tex/q4_shrink_effect.png>
- [18] [19] [20] [21] [22]
-Underfull \hbox (badness 2635) in paragraph at lines 1781--1782
-[]|\TU/SimSun(0)/m/n/10.95 满 足：|  问 题 一 $\OML/cmm/m/it/10.95 D\OT1/cmr/m/n/10.9
-5 (\OML/cmm/m/it/10.95 C[]; T[]\OT1/cmr/m/n/10.95 ) = 4\OML/cmm/m/it/10.95 :\OT
-1/cmr/m/n/10.95 9 \OMS/cmsy/m/n/10.95 ^^B
- []
-
-
-ignored: Infinite glue shrinkage found in box being split [23]
-Underfull \hbox (badness 2564) in paragraph at lines 1802--1802
-[]|\TU/SimSun(0)/m/n/10.95 非 线 性 物 性 滞 后 一
- []
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 1803--1803
-[]|\TU/SimSun(0)/m/n/10.95 柱 面 权 重 与 边 界 通
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 1804--1804
-[]|\TU/SimSun(0)/m/n/10.95 一 维 简 化  |（忽 略 端
- []
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 1805--1805
-[]|\TU/SimSun(0)/m/n/10.95 收 缩 运 动 学 与 表 面
- []
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 1806--1806
-[]|\TU/SimSun(0)/m/n/10.95 温 度 对 扩 散 系 数 的
- []
-
-[24]
-File: image_tex/val_q1.png Graphic file (type bmp)
-<image_tex/val_q1.png>
-File: image_tex/val_q3.png Graphic file (type bmp)
-<image_tex/val_q3.png>
- [25]
-Underfull \hbox (badness 5260) in paragraph at lines 1848--1848
-[]|$\OML/cmm/m/it/12 h[]$ |\TU/SimSun(0)/m/n/12 （对 流 传 质 系
- []
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 1928--1929
-[]|\TU/SimSun(0)/m/n/12 表 面 平 衡 温 度 由
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1928--1929
-\OT1/cmr/m/n/12 50\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2[]$\TU/lmr/m/n/12 C \TU/Si
-mSun(0)/m/n/12 降 至 $\OT1/cmr/m/n/12 47\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0[]$\TU
-/lmr/m/n/12 C\TU/SimSun(0)/m/n/12 ，|
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 1928--1929
-\OML/cmm/m/it/12 D \OMS/cmsy/m/n/12 / \OML/cmm/m/it/12 e[]$ \TU/SimSun(0)/m/n/1
-2 减 小，|
- []
-
-[27] [28] [29] [30
-
 ]
 
 Package fontspec Info: 
@@ -1243,72 +1142,176 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
 
+ [2
 
-Overfull \hbox (20.08093pt too wide) in paragraph at lines 2061--2062
+] [3]
+ignored: Infinite glue shrinkage found in box being split [4]
+ignored: Infinite glue shrinkag
+e found in box being split
+[5] [6] [7]
+File: image_tex/q1_schematic.png Graphic file (type bmp)
+<image_tex/q1_schematic.png>
+ [8] [9] [10]
+File: image_tex/q1_T_profile.png Graphic file (type bmp)
+<image_tex/q1_T_profile.png>
+File: image_tex/q1_C_profile.png Graphic file (type bmp)
+<image_tex/q1_C_profile.png>
+
+Overfull \hbox (12.19318pt too wide) in paragraph at lines 716--725
+[]\TU/SimSun(0)/m/n/12 温 度 场 整 体 持 续 升 高，|  径 向 温 差 随 时 间 增 大：| \TU/lmr/m/n/12 
+100 s \TU/SimSun(0)/m/n/12 时 中 心 与 表 面 温 度 分 别 为 $\OT1/cmr/m/n/12 28\OML/cmm/m/
+it/12 :\OT1/cmr/m/n/12 0001[][]$\TU/SimSun(0)/m/n/12 、|
+ []
+
+[11]
+File: image_tex/q2_properties.png Graphic file (type bmp)
+<image_tex/q2_properties.png>
+ [12]
+Overfull \hbox (11.50269pt too wide) in paragraph at lines 825--828
+[]\TU/SimSun(0)/m/n/12 附 件 \TU/lmr/m/n/12 1 \TU/SimSun(0)/m/n/12 给 出 了 烘 房 温 度 
+和 水 分 浓 度 在 离 散 时 刻 上 的 观 测 值。|  对 相 邻 数 据 点 $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12
+ t[]; T[]; C[]\OT1/cmr/m/n/12 )$
+ []
+
+[13] [14] [15] [16] [17]
+File: image_tex/q3_center_surface.png Graphic file (type bmp)
+<image_tex/q3_center_surface.png>
+ [18] [19] [20]
+File: image_tex/q4_radius.png Graphic file (type bmp)
+<image_tex/q4_radius.png>
+File: image_tex/q4_center_surface.png Graphic file (type bmp)
+<image_tex/q4_center_surface.png>
+File: image_tex/q4_shrink_effect.png Graphic file (type bmp)
+<image_tex/q4_shrink_effect.png>
+ [21] [22] [23] [24] [25]
+Underfull \hbox (badness 2635) in paragraph at lines 1816--1817
+[]|\TU/SimSun(0)/m/n/10.95 满 足：|  问 题 一 $\OML/cmm/m/it/10.95 D\OT1/cmr/m/n/10.9
+5 (\OML/cmm/m/it/10.95 C[]; T[]\OT1/cmr/m/n/10.95 ) = 4\OML/cmm/m/it/10.95 :\OT
+1/cmr/m/n/10.95 9 \OMS/cmsy/m/n/10.95 ^^B
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [26]
+Underfull \hbox (badness 2564) in paragraph at lines 1837--1837
+[]|\TU/SimSun(0)/m/n/10.95 非 线 性 物 性 滞 后 一
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 1838--1838
+[]|\TU/SimSun(0)/m/n/10.95 柱 面 权 重 与 边 界 通
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 1839--1839
+[]|\TU/SimSun(0)/m/n/10.95 一 维 简 化  |（忽 略 端
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 1840--1840
+[]|\TU/SimSun(0)/m/n/10.95 收 缩 运 动 学 与 表 面
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 1841--1841
+[]|\TU/SimSun(0)/m/n/10.95 温 度 对 扩 散 系 数 的
+ []
+
+[27]
+File: image_tex/val_q1.png Graphic file (type bmp)
+<image_tex/val_q1.png>
+File: image_tex/val_q3.png Graphic file (type bmp)
+<image_tex/val_q3.png>
+
+Underfull \hbox (badness 5260) in paragraph at lines 1883--1883
+[]|$\OML/cmm/m/it/12 h[]$ |\TU/SimSun(0)/m/n/12 （对 流 传 质 系
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1964
+[]|\TU/SimSun(0)/m/n/12 表 面 平 衡 温 度 由
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1964
+\OT1/cmr/m/n/12 50\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2[]$\TU/lmr/m/n/12 C \TU/Si
+mSun(0)/m/n/12 降 至 $\OT1/cmr/m/n/12 47\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 0[]$\TU
+/lmr/m/n/12 C\TU/SimSun(0)/m/n/12 ，|
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 1963--1964
+\OML/cmm/m/it/12 D \OMS/cmsy/m/n/12 / \OML/cmm/m/it/12 e[]$ \TU/SimSun(0)/m/n/1
+2 减 小，|
+ []
+
+[29] [30] [31] [32
+
+]
+Overfull \hbox (20.08093pt too wide) in paragraph at lines 2096--2097
 []\TU/lmtt/m/n/12 convergence_problem1.py\TU/SimSun(0)/m/n/12 、| \TU/lmtt/m/n/1
 2 convergence_problem3.py\TU/SimSun(0)/m/n/12 ：|  网 格  |（$\OML/cmm/m/it/12 N \O
 T1/cmr/m/n/12 = 100/200/400/800$\TU/SimSun(0)/m/n/12 ）|
  []
 
-[31
+[33
 
 ] (c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 2088.
+nput line 2123.
 
-(./code/problem1_complete.py [32] [33] [34] [35]) (./code/problem2_complete.py
-Overfull \hbox (10.40372pt too wide) in paragraph at lines 13--15
+(./code/problem1_complete.py [34] [35] [36] [37]) (./code/problem2_complete.py
+Overfull \hbox (10.40372pt too wide) in paragraph at lines 14--16
 [][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (27.65079pt too wide) in paragraph at lines 15--16
+Overfull \hbox (27.65079pt too wide) in paragraph at lines 16--17
 [][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (56.39453pt too wide) in paragraph at lines 16--17
+Overfull \hbox (56.39453pt too wide) in paragraph at lines 17--18
 [][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (18.90704pt too wide) in paragraph at lines 26--28
+Overfull \hbox (18.90704pt too wide) in paragraph at lines 27--29
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  
  []
 
-[36]
-Overfull \hbox (63.78531pt too wide) in paragraph at lines 78--79
+[38] [39]
+Overfull \hbox (63.78531pt too wide) in paragraph at lines 79--80
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][] 
  []
 
 
-Overfull \hbox (58.32672pt too wide) in paragraph at lines 79--80
+Overfull \hbox (58.32672pt too wide) in paragraph at lines 80--81
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (366.55305pt too wide) in paragraph at lines 80--81
+Overfull \hbox (366.55305pt too wide) in paragraph at lines 81--82
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (400.49805pt too wide) in paragraph at lines 81--82
+Overfull \hbox (400.49805pt too wide) in paragraph at lines 82--83
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (84.60687pt too wide) in paragraph at lines 81--82
+Overfull \hbox (84.60687pt too wide) in paragraph at lines 82--83
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-[37]
-Overfull \hbox (96.90936pt too wide) in paragraph at lines 83--84
+
+Overfull \hbox (96.90936pt too wide) in paragraph at lines 84--85
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][] 
  []
@@ -1316,257 +1319,269 @@ Overfull \hbox (96.90936pt too wide) in paragraph at lines 83--84
 Missing character: There is no ρ (U+03C1) in font [lmmono10-regular]:!
 Missing character: There is no ρ (U+03C1) in font [lmmono10-regular]:!
 
-Overfull \hbox (248.56683pt too wide) in paragraph at lines 88--89
+Overfull \hbox (162.3356pt too wide) in paragraph at lines 89--90
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][]  
+][][][][][][]  
  []
 
 
-Overfull \hbox (378.6143pt too wide) in paragraph at lines 90--92
+Overfull \hbox (130.30685pt too wide) in paragraph at lines 93--94
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (378.6143pt too wide) in paragraph at lines 95--97
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][]  
  []
 
 ) (./code/problem3_complete.py
-Overfull \hbox (125.37952pt too wide) in paragraph at lines 10--11
+Overfull \hbox (125.37952pt too wide) in paragraph at lines 11--12
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][]  
  []
 
 
-Overfull \hbox (10.40372pt too wide) in paragraph at lines 12--13
+Overfull \hbox (10.40372pt too wide) in paragraph at lines 13--14
 [][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-
-Overfull \hbox (10.40454pt too wide) in paragraph at lines 13--14
+[40]
+Overfull \hbox (10.40454pt too wide) in paragraph at lines 14--15
 [][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (188.61575pt too wide) in paragraph at lines 14--16
+Overfull \hbox (188.61575pt too wide) in paragraph at lines 15--17
 [][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-[38]
-Overfull \hbox (24.36563pt too wide) in paragraph at lines 31--32
+
+Overfull \hbox (24.36563pt too wide) in paragraph at lines 32--33
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ]  
  []
 
 
-Overfull \hbox (179.58185pt too wide) in paragraph at lines 32--33
+Overfull \hbox (179.58185pt too wide) in paragraph at lines 33--34
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][]  
  []
 
 
-Overfull \hbox (7.11938pt too wide) in paragraph at lines 39--40
+Overfull \hbox (7.11938pt too wide) in paragraph at lines 40--41
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (104.02655pt too wide) in paragraph at lines 47--48
+Overfull \hbox (104.02655pt too wide) in paragraph at lines 48--49
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (82.14328pt too wide) in paragraph at lines 55--57
+Overfull \hbox (82.14328pt too wide) in paragraph at lines 56--58
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-
-Overfull \hbox (50.11438pt too wide) in paragraph at lines 67--68
+[41]
+Overfull \hbox (50.11438pt too wide) in paragraph at lines 68--69
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-[39]
-Overfull \hbox (429.78929pt too wide) in paragraph at lines 68--69
+
+Overfull \hbox (429.78929pt too wide) in paragraph at lines 69--70
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (663.84549pt too wide) in paragraph at lines 69--70
+Overfull \hbox (663.84549pt too wide) in paragraph at lines 70--71
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][] 
  []
 
 
-Overfull \hbox (84.60687pt too wide) in paragraph at lines 69--70
+Overfull \hbox (84.60687pt too wide) in paragraph at lines 70--71
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (84.60687pt too wide) in paragraph at lines 69--70
+Overfull \hbox (84.60687pt too wide) in paragraph at lines 70--71
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (655.633pt too wide) in paragraph at lines 70--72
+Overfull \hbox (655.633pt too wide) in paragraph at lines 71--73
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (11.24188pt too wide) in paragraph at lines 74--76
+Overfull \hbox (11.24188pt too wide) in paragraph at lines 78--80
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][]  
  []
 
-) (./code/problem4_complete.py
-Overfull \hbox (125.37952pt too wide) in paragraph at lines 10--11
+) (./code/problem4_complete.py [42]
+Overfull \hbox (125.37952pt too wide) in paragraph at lines 11--12
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][]  
  []
 
 
-Overfull \hbox (10.40372pt too wide) in paragraph at lines 12--13
+Overfull \hbox (10.40372pt too wide) in paragraph at lines 13--14
 [][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (10.40454pt too wide) in paragraph at lines 13--14
+Overfull \hbox (10.40454pt too wide) in paragraph at lines 14--15
 [][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (188.61575pt too wide) in paragraph at lines 14--15
+Overfull \hbox (188.61575pt too wide) in paragraph at lines 15--16
 [][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (228.857pt too wide) in paragraph at lines 15--17
+Overfull \hbox (228.857pt too wide) in paragraph at lines 16--18
 [][][][][][][][][][][][][][][][][][]  
  []
 
-[40]
-Overfull \hbox (24.36563pt too wide) in paragraph at lines 34--35
+
+Overfull \hbox (24.36563pt too wide) in paragraph at lines 35--36
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ]  
  []
 
 
-Overfull \hbox (214.07434pt too wide) in paragraph at lines 36--37
+Overfull \hbox (214.07434pt too wide) in paragraph at lines 37--38
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (41.61188pt too wide) in paragraph at lines 45--46
+Overfull \hbox (41.61188pt too wide) in paragraph at lines 46--47
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][]  
  []
 
-
-Overfull \hbox (41.08047pt too wide) in paragraph at lines 56--57
+[43]
+Overfull \hbox (41.08047pt too wide) in paragraph at lines 57--58
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (82.14328pt too wide) in paragraph at lines 66--68
+Overfull \hbox (82.14328pt too wide) in paragraph at lines 67--69
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-[41]
-Overfull \hbox (170.54794pt too wide) in paragraph at lines 78--79
+
+Overfull \hbox (170.54794pt too wide) in paragraph at lines 79--80
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (50.11438pt too wide) in paragraph at lines 79--80
+Overfull \hbox (50.11438pt too wide) in paragraph at lines 80--81
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (429.78929pt too wide) in paragraph at lines 80--81
+Overfull \hbox (429.78929pt too wide) in paragraph at lines 81--82
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (955.93668pt too wide) in paragraph at lines 81--82
+Overfull \hbox (955.93668pt too wide) in paragraph at lines 82--83
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (84.60687pt too wide) in paragraph at lines 81--82
+Overfull \hbox (84.60687pt too wide) in paragraph at lines 82--83
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (460.17554pt too wide) in paragraph at lines 82--83
+Overfull \hbox (460.17554pt too wide) in paragraph at lines 83--84
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (309.06557pt too wide) in paragraph at lines 83--84
+Overfull \hbox (309.06557pt too wide) in paragraph at lines 84--85
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (78.85812pt too wide) in paragraph at lines 83--84
+Overfull \hbox (78.85812pt too wide) in paragraph at lines 84--85
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-
-Overfull \hbox (480.98053pt too wide) in paragraph at lines 84--85
+[44]
+Overfull \hbox (480.98053pt too wide) in paragraph at lines 85--86
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (67.36063pt too wide) in paragraph at lines 84--85
+Overfull \hbox (67.36063pt too wide) in paragraph at lines 85--86
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (592.39676pt too wide) in paragraph at lines 85--86
+Overfull \hbox (592.39676pt too wide) in paragraph at lines 86--87
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][] 
  []
 
 
-Overfull \hbox (21.37064pt too wide) in paragraph at lines 85--86
+Overfull \hbox (21.37064pt too wide) in paragraph at lines 86--87
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \hbox (554.61926pt too wide) in paragraph at lines 86--88
+Overfull \hbox (554.61926pt too wide) in paragraph at lines 87--89
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (7.11938pt too wide) in paragraph at lines 90--91
+Overfull \hbox (107.60187pt too wide) in paragraph at lines 94--95
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][]  
+][][]  
  []
 
-) [42] (updated_build/essay.aux)
+
+Overfull \hbox (91.16061pt too wide) in paragraph at lines 95--96
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][]  
+ []
+
+) [45] (updated_build/essay.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `essay.out' has not changed.
-(rerunfilecheck)             Checksum: 962036A9CAEEB31DD58F7640ADF91A6E;6261.
+(rerunfilecheck)             Checksum: AB37FC964FB97C04C68CE8B709729059;8049.
  ) 
 Here is how much of TeX's memory you used:
- 21592 strings out of 468168
- 451780 string characters out of 5436525
- 1148882 words of memory out of 5000000
- 49972 multiletter control sequences out of 15000+600000
+ 21631 strings out of 468168
+ 453788 string characters out of 5436525
+ 1162282 words of memory out of 5000000
+ 50011 multiletter control sequences out of 15000+600000
  636260 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,111p,1451b,2047s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on updated_build/essay.pdf (42 pages).
+Output written on updated_build/essay.pdf (45 pages).
